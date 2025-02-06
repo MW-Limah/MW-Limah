@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MW-Limah
 - 👀 I'm interested in web development, with focus on the front-end using Html, Css and JS. 
-- 🌱 I’m currently learning javascript and web design.
+- 🌱 I’m currently learning python and Backend/Frontend.
 - 🫡 I’m looking to collaborate on perhaps with the development of advertising websites, online stores and other web solutions
-- 📫 How to reach me: my numbers phone is +55 (92) 98563-3944
+- 📫 How to reach me: my numbers phone is +44 7386 797717
 - ⚡ Fun fact: 
 
 <!---
