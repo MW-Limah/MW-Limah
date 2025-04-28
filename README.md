@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MW-Limah
+- 👋 Hi, I’m @mwlima.dev
 - 👀 I'm interested in web development, with focus on the front-end using Html, Css and JS. 
 - 🌱 I’m currently learning python and Backend/Frontend.
 - 🫡 I’m looking to collaborate on perhaps with the development of advertising websites, online stores and other web solutions
