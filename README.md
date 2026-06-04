@@ -2,7 +2,7 @@
 
 I am a Computer Science student currently based in the UK, deeply passionate about Software Development and Full-Stack Engineering. My goal is to transform logical challenges into scalable, real-world applications that make technology accessible to everyone.
 
-Currently, I'm sharpening my skills in full-stack web architectures and mobile development, while diving deep into database design.
+I'm currently exploring C# and .NET to strengthen my backend engineering skills, with a focus on building robust, scalable, and maintainable applications.
 
 ---
 
