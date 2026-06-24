@@ -19,4 +19,6 @@ I'm currently exploring C# and .NET to strengthen my backend engineering skills,
 - **Inventory Management System:** Developed an end-to-end full-stack system which earned me an invitation to become a **Programming Teaching Assistant (Monitor)** at my university. I love helping peers debug code and master programming logic!
 - Based in the UK 🇬🇧 (Open to Junior Developer roles, Tech Internships, and open-source collaboration).
 
-📬 **How to reach me:** willliamsdelima25@gmail.com | [LinkedIn](www.linkedin.com/in/williams-delima) | [Portifolio](https://delimadev.vercel.app/)  
+📬 **How to reach me:** willliamsdelima25@gmail.com | 
+<a href="https://www.linkedin.com/in/williams-delima" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+<a href="https://delimadev.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> 
